@@ -1,0 +1,2 @@
+ECHO is on.
+New m1 file
